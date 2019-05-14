@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1016376229751",
+    "firebase_url": "https://cheforder-93536.firebaseio.com",
+    "project_id": "cheforder-93536",
+    "storage_bucket": "cheforder-93536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016376229751:android:b7bdc9f9f5a16fd4",
+        "android_client_info": {
+          "package_name": "com.cheforder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016376229751-87uprrr3nqgp4jbldu3ptdni02pfmmmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTw6yrJmokmUevyuGFOPGCv7ledbMD9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

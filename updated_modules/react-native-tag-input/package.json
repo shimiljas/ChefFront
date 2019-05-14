@@ -1,0 +1,99 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-tag-input",
+        "scope": null,
+        "escapedName": "react-native-tag-input",
+        "name": "react-native-tag-input",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrder"
+    ]
+  ],
+  "_from": "react-native-tag-input@latest",
+  "_id": "react-native-tag-input@0.0.14",
+  "_inCache": true,
+  "_location": "/react-native-tag-input",
+  "_nodeVersion": "5.4.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-tag-input-0.0.14.tgz_1487014512780_0.1500471665058285"
+  },
+  "_npmUser": {
+    "name": "jwohlfert23",
+    "email": "jack.wohlfert@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-tag-input",
+    "scope": null,
+    "escapedName": "react-native-tag-input",
+    "name": "react-native-tag-input",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tag-input/-/react-native-tag-input-0.0.14.tgz",
+  "_shasum": "742112640a73d11fa8ae87383458c8fc00739775",
+  "_shrinkwrap": null,
+  "_spec": "react-native-tag-input",
+  "_where": "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrder",
+  "author": {
+    "name": "Jack Wohlfert",
+    "url": "https://github.com/jwohlfert23"
+  },
+  "bugs": {
+    "url": "https://github.com/jwohlfert23/react-native-tag-input/issues"
+  },
+  "dependencies": {},
+  "description": "A tag input component for react-native",
+  "devDependencies": {
+    "lodash": "^3.2.0",
+    "react": "^15.0.2",
+    "react-native": "^0.26.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "742112640a73d11fa8ae87383458c8fc00739775",
+    "tarball": "https://registry.npmjs.org/react-native-tag-input/-/react-native-tag-input-0.0.14.tgz"
+  },
+  "gitHead": "5ea5de1356008dc6727e8e8c756a68d906de3042",
+  "homepage": "https://github.com/jwohlfert23/react-native-tag-input#readme",
+  "keywords": [
+    "email input",
+    "emails",
+    "ios",
+    "react-component",
+    "react-native",
+    "tag input",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jwohlfert23",
+      "email": "jack.wohlfert@gmail.com"
+    }
+  ],
+  "name": "react-native-tag-input",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jwohlfert23/react-native-tag-input.git"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "version": "0.0.14"
+}

@@ -1,0 +1,121 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-pathjs-charts@0.0.30",
+        "scope": null,
+        "escapedName": "react-native-pathjs-charts",
+        "name": "react-native-pathjs-charts",
+        "rawSpec": "0.0.30",
+        "spec": "0.0.30",
+        "type": "version"
+      },
+      "/Users/parshant/Desktop/ReactNative/sheforder/ChefOrderApp"
+    ]
+  ],
+  "_from": "react-native-pathjs-charts@0.0.30",
+  "_id": "react-native-pathjs-charts@0.0.30",
+  "_inCache": true,
+  "_location": "/react-native-pathjs-charts",
+  "_nodeVersion": "6.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-pathjs-charts-0.0.30.tgz_1499869267974_0.06447501038201153"
+  },
+  "_npmUser": {
+    "name": "c1rncharts",
+    "email": "marzolfb@gmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-pathjs-charts@0.0.30",
+    "scope": null,
+    "escapedName": "react-native-pathjs-charts",
+    "name": "react-native-pathjs-charts",
+    "rawSpec": "0.0.30",
+    "spec": "0.0.30",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pathjs-charts/-/react-native-pathjs-charts-0.0.30.tgz",
+  "_shasum": "941fffaafbf52763caaf3eabe09b9c5b96e1e0d0",
+  "_shrinkwrap": null,
+  "_spec": "react-native-pathjs-charts@0.0.30",
+  "_where": "/Users/parshant/Desktop/ReactNative/sheforder/ChefOrderApp",
+  "author": {
+    "name": "Cale Hoopes",
+    "email": "caledh@gmail.com",
+    "url": "https://github.com/capitalone"
+  },
+  "bugs": {
+    "url": "https://github.com/capitalone/react-native-pathjs-charts/issues"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "lodash": "^4.12.0",
+    "paths-js": "^0.4.5",
+    "react-native-svg": "~5.3.0"
+  },
+  "description": "Cross platform React Native charting library based on path-js and react-native-svg",
+  "devDependencies": {
+    "babel-jest": "*",
+    "babel-preset-react-native": "^1.9.0",
+    "diff": "^3.1.0",
+    "jest": "^18.0.0",
+    "jest-react-native": "*",
+    "react": "16.0.0-alpha.12",
+    "react-dom": "16.0.0-alpha.12",
+    "react-native": "~0.46.1",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "941fffaafbf52763caaf3eabe09b9c5b96e1e0d0",
+    "tarball": "https://registry.npmjs.org/react-native-pathjs-charts/-/react-native-pathjs-charts-0.0.30.tgz"
+  },
+  "homepage": "https://github.com/capitalone/react-native-pathjs-charts#readme",
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-svg",
+    "paths-js",
+    "react-pathjs-chart",
+    "ios",
+    "android"
+  ],
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "c1rncharts",
+      "email": "marzolfb@gmail.com"
+    },
+    {
+      "name": "katscott",
+      "email": "reineskat@gmail.com"
+    },
+    {
+      "name": "marzolfb",
+      "email": "marzolfb@gmail.com"
+    }
+  ],
+  "name": "react-native-pathjs-charts",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capitalone/react-native-pathjs-charts.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js,.jsx src",
+    "start": "node_modules/react-native/packager/packager.sh",
+    "test": "jest"
+  },
+  "version": "0.0.30"
+}

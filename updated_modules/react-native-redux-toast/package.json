@@ -1,0 +1,127 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-redux-toast",
+        "scope": null,
+        "escapedName": "react-native-redux-toast",
+        "name": "react-native-redux-toast",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Igniva/Desktop/Project/Pwayz/Ios/Pwayz/Driveway"
+    ]
+  ],
+  "_from": "react-native-redux-toast@latest",
+  "_id": "react-native-redux-toast@1.0.0",
+  "_inCache": true,
+  "_location": "/react-native-redux-toast",
+  "_nodeVersion": "7.7.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-redux-toast-1.0.0.tgz_1494454068986_0.3935122243128717"
+  },
+  "_npmUser": {
+    "name": "sebbal",
+    "email": "sebastian.balay@wolox.com.ar"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-redux-toast",
+    "scope": null,
+    "escapedName": "react-native-redux-toast",
+    "name": "react-native-redux-toast",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-redux-toast/-/react-native-redux-toast-1.0.0.tgz",
+  "_shasum": "dd4cbe438fc5ea8cdd6453c0ef205ca8182efe0c",
+  "_shrinkwrap": null,
+  "_spec": "react-native-redux-toast",
+  "_where": "/Users/Igniva/Desktop/Project/Pwayz/Ios/Pwayz/Driveway",
+  "author": {
+    "name": "Sebastian Balay",
+    "email": "sebastian.balay@wolox.com.ar"
+  },
+  "bugs": {
+    "url": "https://github.com/Wolox/react-native-redux-toast/issues"
+  },
+  "dependencies": {
+    "seamless-immutable": "^7.1.2"
+  },
+  "description": "Cross platform implementation of Android's toast component. Easy to customize and integrate with redux. 100% written in JS.",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.2",
+    "babel-jest": "^19.0.0",
+    "babel-preset-react-native": "^1.9.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-prettier": "^1.6.0",
+    "eslint-plugin-flowtype": "^2.30.4",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-prettier": "^2.0.1",
+    "eslint-plugin-react": "^6.10.3",
+    "husky": "^0.13.3",
+    "jest": "^19.0.2",
+    "prettier": "^1.1.0",
+    "prettier-eslint": "^5.1.0",
+    "react": "^15.5.4",
+    "react-native": "^0.43.3",
+    "react-redux": "^5.0.4"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "dd4cbe438fc5ea8cdd6453c0ef205ca8182efe0c",
+    "tarball": "https://registry.npmjs.org/react-native-redux-toast/-/react-native-redux-toast-1.0.0.tgz"
+  },
+  "gitHead": "77ee38534af1a56baa221b70217901405e060899",
+  "homepage": "https://github.com/Wolox/react-native-redux-toast",
+  "keywords": [
+    "react-native",
+    "toast",
+    "redux",
+    "javascript",
+    "android",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "sebbal",
+      "email": "sebastian.balay@wolox.com.ar"
+    }
+  ],
+  "name": "react-native-redux-toast",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^15.5.4",
+    "react-native": "^0.43.3",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolox/react-native-redux-toast.git"
+  },
+  "scripts": {
+    "build": "babel index.js -d lib && babel src -d lib/src",
+    "coverage": "jest --coverage",
+    "lint": "eslint src && eslint index.js",
+    "lint-diff": "git diff --name-only --cached --relative | grep \\\\.js$ | xargs eslint",
+    "precommit": "npm run lint-diff",
+    "prepublish": "npm run build",
+    "test": "jest"
+  },
+  "version": "1.0.0"
+}

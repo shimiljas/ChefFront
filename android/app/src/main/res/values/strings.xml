@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">T1nY4gII-tekhPYkjoPuTRXe4ecb4ca2ddec-54bb-4cb1-8040-9248e6e7fce4</string>
+    <string name="app_name">ChefOrder</string>
+</resources>

@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-video-player@^0.7.0",
+        "scope": null,
+        "escapedName": "react-native-video-player",
+        "name": "react-native-video-player",
+        "rawSpec": "^0.7.0",
+        "spec": ">=0.7.0 <0.8.0",
+        "type": "range"
+      },
+      "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrderApp"
+    ]
+  ],
+  "_from": "react-native-video-player@>=0.7.0 <0.8.0",
+  "_id": "react-native-video-player@0.7.0",
+  "_inCache": true,
+  "_location": "/react-native-video-player",
+  "_nodeVersion": "7.7.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-video-player-0.7.0.tgz_1496826043267_0.3270862374920398"
+  },
+  "_npmUser": {
+    "name": "cornedor",
+    "email": "corne.dorrestijn@gmail.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-video-player@^0.7.0",
+    "scope": null,
+    "escapedName": "react-native-video-player",
+    "name": "react-native-video-player",
+    "rawSpec": "^0.7.0",
+    "spec": ">=0.7.0 <0.8.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-video-player/-/react-native-video-player-0.7.0.tgz",
+  "_shasum": "db539e1359aeb0fae7150aa231f34c8fdcfce7de",
+  "_shrinkwrap": null,
+  "_spec": "react-native-video-player@^0.7.0",
+  "_where": "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrderApp",
+  "author": {
+    "name": "Corné Dorrestijn",
+    "email": "contact@corne.info"
+  },
+  "bugs": {
+    "url": "https://github.com/cornedor/react-native-video-player/issues"
+  },
+  "dependencies": {},
+  "description": "A video player for React Native with controls",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-wVUHkYovyqwLSy++hbdWc0DVBMTnBzhHFNySa+/XcT2jg/Z5Az1pPIYoEtMKTLuOG5/Fv1Sl5exSvoAoPJOM1A==",
+    "shasum": "db539e1359aeb0fae7150aa231f34c8fdcfce7de",
+    "tarball": "https://registry.npmjs.org/react-native-video-player/-/react-native-video-player-0.7.0.tgz"
+  },
+  "gitHead": "cfd4dee48fb9a74ba6fd6e133b21e16d3c88d9f2",
+  "homepage": "https://github.com/cornedor/react-native-video-player#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "cornedor",
+      "email": "corne.dorrestijn@gmail.com"
+    }
+  ],
+  "name": "react-native-video-player",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-vector-icons": ">= 2.1.0",
+    "react-native-video": "^0.9.0 || ^1.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornedor/react-native-video-player.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.7.0"
+}

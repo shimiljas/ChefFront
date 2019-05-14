@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-navbar",
+        "scope": null,
+        "escapedName": "react-native-navbar",
+        "name": "react-native-navbar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrder"
+    ]
+  ],
+  "_from": "react-native-navbar@latest",
+  "_id": "react-native-navbar@1.7.1",
+  "_inCache": true,
+  "_location": "/react-native-navbar",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-navbar-1.7.1.tgz_1490880384185_0.14799653179943562"
+  },
+  "_npmUser": {
+    "name": "kureev",
+    "email": "kureev-mail@ya.ru"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-navbar",
+    "scope": null,
+    "escapedName": "react-native-navbar",
+    "name": "react-native-navbar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-navbar/-/react-native-navbar-1.7.1.tgz",
+  "_shasum": "de0e6f8c2156c7e984bb43c76732bd2437b7df0f",
+  "_shrinkwrap": null,
+  "_spec": "react-native-navbar",
+  "_where": "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrder",
+  "author": {
+    "name": "Alexey Kureev",
+    "email": "kureev-mail@ya.ru",
+    "url": "https://github.com/Kureev"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-community/react-native-navbar/issues"
+  },
+  "dependencies": {},
+  "description": "Simple customizable navbar component for react-native",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "de0e6f8c2156c7e984bb43c76732bd2437b7df0f",
+    "tarball": "https://registry.npmjs.org/react-native-navbar/-/react-native-navbar-1.7.1.tgz"
+  },
+  "gitHead": "d39d49c8711ee5ecc8276d756dfa0afe5b33e1ce",
+  "homepage": "https://github.com/react-native-community/react-native-navbar",
+  "keywords": [
+    "react-native",
+    "navbar"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "grabbou",
+      "email": "grabbou@gmail.com"
+    },
+    {
+      "name": "kureev",
+      "email": "kureev-mail@ya.ru"
+    }
+  ],
+  "name": "react-native-navbar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-native-community/react-native-navbar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.1"
+}

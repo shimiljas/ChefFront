@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-calendars@^1.5.6",
+        "scope": null,
+        "escapedName": "react-native-calendars",
+        "name": "react-native-calendars",
+        "rawSpec": "^1.5.6",
+        "spec": ">=1.5.6 <2.0.0",
+        "type": "range"
+      },
+      "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrderApp"
+    ]
+  ],
+  "_from": "react-native-calendars@>=1.5.6 <2.0.0",
+  "_id": "react-native-calendars@1.5.6",
+  "_inCache": true,
+  "_location": "/react-native-calendars",
+  "_nodeVersion": "7.7.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-calendars-1.5.6.tgz_1501655939319_0.13391849398612976"
+  },
+  "_npmUser": {
+    "name": "tautvilas",
+    "email": "mecinskas@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-calendars@^1.5.6",
+    "scope": null,
+    "escapedName": "react-native-calendars",
+    "name": "react-native-calendars",
+    "rawSpec": "^1.5.6",
+    "spec": ">=1.5.6 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendars/-/react-native-calendars-1.5.6.tgz",
+  "_shasum": "c848c3f1dbc0f1f74f9adfbc929fc0fc1594bf7e",
+  "_shrinkwrap": null,
+  "_spec": "react-native-calendars@^1.5.6",
+  "_where": "/Users/manishbudhraja/Desktop/Projects/iOS/ChefOrderApp",
+  "author": {
+    "name": "Wix.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wix/react-native-calendars/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "xdate": "^0.8.0"
+  },
+  "description": "React Native Calendar Components",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.0",
+    "jasmine": "^2.5.2",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c848c3f1dbc0f1f74f9adfbc929fc0fc1594bf7e",
+    "tarball": "https://registry.npmjs.org/react-native-calendars/-/react-native-calendars-1.5.6.tgz"
+  },
+  "gitHead": "959ceed68a96990ce3083d1c57860d037b80c4dd",
+  "homepage": "https://github.com/wix/react-native-calendars#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "wix.mobile",
+      "email": "oneapp@wix.com"
+    },
+    {
+      "name": "tautvilas",
+      "email": "mecinskas@gmail.com"
+    }
+  ],
+  "name": "react-native-calendars",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix/react-native-calendars.git"
+  },
+  "scripts": {
+    "lint": "eslint src/ example/src",
+    "test": "jasmine src/*.spec.js && npm run lint"
+  },
+  "version": "1.5.6"
+}
